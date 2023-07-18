@@ -1,1 +1,2 @@
 # lipsync-Ai
+The LipSync AI repository presents an advanced deep learning model that leverages the power of the Way2Lip pretrained model to generate realistic and accurate lip movements. This cutting-edge technology enables the automatic synchronization of lip movements with audio inputs, offering exciting possibilities for various applications such as video production, animation, virtual avatars, and more.
